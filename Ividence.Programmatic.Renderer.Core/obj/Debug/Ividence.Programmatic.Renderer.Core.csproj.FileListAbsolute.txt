@@ -1,0 +1,7 @@
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\bin\Debug\Ividence.Programmatic.Renderer.Core.dll
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\bin\Debug\Ividence.Programmatic.Renderer.Core.pdb
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\obj\Debug\Ividence.Programmatic.Renderer.Core.dll
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\obj\Debug\Ividence.Programmatic.Renderer.Core.pdb
+C:\Users\lalit.saini\Documents\Git\programmatic-templates-starterkit\src\Ividence.Programmatic.Renderer.Core\obj\Debug\Ividence.Programmatic.Renderer.Core.csprojResolveAssemblyReference.cache
